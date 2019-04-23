@@ -5,7 +5,7 @@ class BookmarkManager < Sinatra::Base
   enable :sessions
 
   get '/' do
-    erb :index
+    erb :'bookmarks/index'
   end
 
   get '/bookmarks' do
