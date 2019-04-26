@@ -23,6 +23,16 @@
         null,
         null
       ],
+      "/Users/student/Documents/projects/week_4/bookmark_manager/spec/features/add_bookmark_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        null,
+        null
+      ],
       "/Users/student/Documents/projects/week_4/bookmark_manager/spec/features/view_bookmarks_spec.rb": [
         1,
         1,
@@ -43,6 +53,6 @@
         null
       ]
     },
-    "timestamp": 1556290277
+    "timestamp": 1556291671
   }
 }
